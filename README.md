@@ -184,8 +184,9 @@ Stores order details:
 
 <img width="1896" height="902" alt="image" src="https://github.com/user-attachments/assets/0cfe669e-58c3-4d98-a409-91e739d1df00" />
 <img width="1890" height="905" alt="image" src="https://github.com/user-attachments/assets/f0cf482a-9b72-4914-a361-91e31e9873c3" />
+<img width="1885" height="901" alt="image" src="https://github.com/user-attachments/assets/eda18f3a-e90c-4d20-ba04-0bbd6e9d34a1" />
 <img width="1896" height="892" alt="image" src="https://github.com/user-attachments/assets/7074d42e-b4ca-4b69-9b7d-97f250cd0408" />
-<img width="1890" height="897" alt="image" src="https://github.com/user-attachments/assets/943de040-0f60-4757-b86a-9a8a9bccb13e" />
+
 
 ---
 
