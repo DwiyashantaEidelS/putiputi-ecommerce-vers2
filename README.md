@@ -49,7 +49,7 @@ PutiPuti E-Commerce is a full-stack e-commerce web application built with React 
 ```bash
 putiputi-ecommerce/
 │
-├── frontend/
+├── putiputi-frontend/
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
@@ -58,7 +58,7 @@ putiputi-ecommerce/
 │   │   └── types/
 │   └── package.json
 │
-├── backend/
+├── putiputi-api/
 │   ├── app/
 │   │   ├── Http/Controllers/
 │   │   ├── Models/
@@ -88,7 +88,7 @@ cd putiputi-ecommerce
 Move to backend folder:
 
 ```bash
-cd backend
+cd putiputi-api
 composer install
 cp .env.example .env
 php artisan key:generate
