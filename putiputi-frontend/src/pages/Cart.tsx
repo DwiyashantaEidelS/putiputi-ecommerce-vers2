@@ -2,7 +2,7 @@ import Container from "../components/layout/Container";
 import Button from "../components/ui/Button";
 import toast from "react-hot-toast";
 import { useCart } from "../context/CartContext";
-import { Link, ShoppingBag } from "lucide-react";
+import { ShoppingBag } from "lucide-react";
 import { formatCurrency } from "../utils/formatCurrency";
 
 const Cart = () => {
@@ -82,19 +82,11 @@ const Cart = () => {
           </p>
 
           {/* BUTTON */}
-          {/* <Button 
+          <Button 
           to="/products"
           className="mt-8">
             Continue Shopping
-          </Button> */}
-
-          <Link to="/products">
-
-            <Button className="mt-8">
-              Continue Shopping
-            </Button>
-
-          </Link>
+          </Button>
 
         </div>
 
